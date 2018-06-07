@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Table1" max_length="40" name="x_159204_area_51a_table1" type="collection">
+        <element display="true" label="ipaddress" max_length="30" name="ipaddress" type="string"/>
+        <element label="macaddress" max_length="40" name="macaddress" type="string"/>
+    </element>
+</database>

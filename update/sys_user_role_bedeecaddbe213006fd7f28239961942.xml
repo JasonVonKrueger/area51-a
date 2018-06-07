@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_159204_area_51a.table1_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>table1_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-07 00:17:34</sys_created_on>
+        <sys_id>bedeecaddbe213006fd7f28239961942</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_159204_area_51a.table1_user</sys_name>
+        <sys_package display_value="Area 51a" source="x_159204_area_51a">b71d206ddbe213006fd7f28239961995</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Area 51a">b71d206ddbe213006fd7f28239961995</sys_scope>
+        <sys_update_name>sys_user_role_bedeecaddbe213006fd7f28239961942</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-07 00:17:34</sys_updated_on>
+    </sys_user_role>
+</record_update>
